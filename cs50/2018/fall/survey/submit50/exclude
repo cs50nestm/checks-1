@@ -2,6 +2,6 @@
 __pycache__/
 #application.py
 #templates/layout.html
-#templates/form.html
+#templates/index.html
 #templates/error.html
 #static/styles.css
